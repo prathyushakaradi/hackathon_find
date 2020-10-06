@@ -1,0 +1,15 @@
+.top{
+  padding:3% 10%;
+}
+
+.filter{
+  float: right;
+}
+
+.postings-table{
+  margin-top:3%;
+}
+
+.btn-outline-success{
+  color:#28A745;
+}

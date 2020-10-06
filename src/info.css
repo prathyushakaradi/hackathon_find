@@ -1,0 +1,36 @@
+.one{
+  padding:3% 10%;
+}
+
+.info-img{
+  float:left;
+  padding-right:2%;
+}
+.btn-outline-success{
+  color:#28A745;
+  font-family: 'Poppins', sans-serif;
+
+  float: right;
+}
+
+.info-content{
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+
+}
+.btn-outline-info{
+  color: #17A2B8;
+  float: right;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.btn{
+  margin:3px;
+}
+
+.card-title{
+  font-family: 'Poppins', sans-serif;
+  font-size:1rem;
+  font-weight: bold;
+}
